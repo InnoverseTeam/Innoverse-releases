@@ -1,2 +1,2 @@
 # Innoverse-releases
-Innoverse releases repository
+- Innoverse releases repository
