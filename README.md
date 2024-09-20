@@ -5,4 +5,4 @@
 - Innoverse Wii U Aroma Patcher (WPS).
 - Innoverse 3DS Luma Patcher (CIA).
 
-# Made with <3 by 🐱
+# Made with ❤️ by 🐱
